@@ -10266,7 +10266,7 @@ header.masthead h1 {
 }
 
 .carousel-item img {
-  filter: blur(2px) contrast(1);
+  filter: blur(2.5px) contrast(1);
 }
 
 a:hover {
@@ -10284,4 +10284,13 @@ a:hover {
 
 .logo {
   width: 62px;
+}
+
+div div div h5 {
+  font-size: 50px;
+  padding-bottom: 5%;
+}
+
+div div div p {
+  padding-bottom: 10%;
 }
