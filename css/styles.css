@@ -10287,10 +10287,9 @@ a:hover {
 }
 
 div div div h5 {
-  font-size: 50px;
-  padding-bottom: 5%;
+  font-size: 40px;
 }
 
-div div div p {
-  padding-bottom: 10%;
+.carousel-caption {
+  margin-bottom: 15% !important;
 }
